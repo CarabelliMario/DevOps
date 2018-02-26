@@ -1,0 +1,49 @@
+# This is my first draft of an DevOps Curriculum
+
+## Areas of Skills for an DevOps position
+1) DevOps Concepts (terminology and philosophy)
+2) Infrastructure (Linux/unix based editing, monitiroring and command based tools)
+3) Cloud- Infrasturcture 8AWS, maxbe azure)
+4) Coding/scripting (Bash/Powershell/Python/Java/Javascript)
+5) DevOps Tools (git, Jenkins(build and test)m chef (configuration management), AWS
+  (deployment))
+6) Virtualization Know-How
+7) Database knowledge
+
+## Current Skill Level
+1) 0/10 Not explored
+2) 3/10 Some Linux sysadmin tasks, vim user
+3) 1/10 Installed an AWS account and wrote an lmbda function for Alexa
+4) 3/10 Wrote simple code and testing C++/Java/Python/Bash.
+  configured build scripts with make and cmake
+5) 1/10 used git as backup of commitments
+6) 0/0 I used virtualbox but nothing of the theory behind it
+7) 0/0 I know only some basic terminology
+
+
+## General Plan
+get about average in every area (6+) until 31.12.2019
+
+One hour before work at academic and high level things which
+aren't linked to my job right now (programming principles, Cloud/Linux stuff,
+Virtualization).
+
+I try to learn anything at my job as deep as possible so I can gather experience
+in the subjects (code macros, know our database, take sysadmin responisbility if
+offered, Rest-Api scripts. general admin-methodoly)
+
+I listen to Audiobooks and read blogs and Quora in my free time to immerse
+myself in the topic.
+
+I need to create an actionable outline of topics, courses and certifications
+for the upcoming 21 Months or 91 weeks .
+
+## Starting point: Learn to code professionally (Python/Java Javascript/ Fullstack /Methodology)
+*  12/91 CS50x: Get Overview and fill in gaps (until) (Harvard Introduction course)
+*  22/91 How to Code https://www.edx.org/course/how-code-simple-data-ubcx-htc1x
+*  32/91 How to Code: Complex Data https://www.edx.org/course/how-code-complex-data-ubcx-htc2x
+*  42/91 Software Construction: Data Abstraction https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x
+*  52/91 Software Construction: Object-Oriented Design https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x
+*  62/91 Software Engineering: Introduction https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x
+*  76/91 Software capstone project: https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx
+*  91/91 Databases courses (in between)
